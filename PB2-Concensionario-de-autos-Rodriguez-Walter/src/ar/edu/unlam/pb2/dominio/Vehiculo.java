@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.primerparcial;
+package ar.edu.unlam.pb2.dominio;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.primerparcial;
+package ar.edu.unlam.pb2.dominio;
 
 public interface Accesorio {
 	// Con esta interfaz puedo definir el contrato de como se va a comportar

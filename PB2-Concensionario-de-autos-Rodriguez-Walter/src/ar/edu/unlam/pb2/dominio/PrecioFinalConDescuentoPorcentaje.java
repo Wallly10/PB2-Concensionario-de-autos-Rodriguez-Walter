@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.primerparcial;
+package ar.edu.unlam.pb2.dominio;
 
 public class PrecioFinalConDescuentoPorcentaje implements EstrategiaPrecioFinal {
 

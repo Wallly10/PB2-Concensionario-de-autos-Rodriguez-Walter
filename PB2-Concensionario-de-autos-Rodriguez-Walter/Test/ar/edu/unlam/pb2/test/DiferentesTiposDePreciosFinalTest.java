@@ -1,18 +1,18 @@
-package ar.edu.unlam.pb2.primerparcial.test;
+package ar.edu.unlam.pb2.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import ar.edu.unlam.pb2.primerparcial.Alarma;
-import ar.edu.unlam.pb2.primerparcial.Auto;
-import ar.edu.unlam.pb2.primerparcial.Estereo;
-import ar.edu.unlam.pb2.primerparcial.EstrategiaPrecioFinal;
-import ar.edu.unlam.pb2.primerparcial.LevantaVidrios;
-import ar.edu.unlam.pb2.primerparcial.PrecioFinal;
-import ar.edu.unlam.pb2.primerparcial.PrecioFinalConDescuentoImporte;
-import ar.edu.unlam.pb2.primerparcial.PrecioFinalConDescuentoPorcentaje;
-import ar.edu.unlam.pb2.primerparcial.Pulido;
+import ar.edu.unlam.pb2.dominio.Alarma;
+import ar.edu.unlam.pb2.dominio.Auto;
+import ar.edu.unlam.pb2.dominio.Estereo;
+import ar.edu.unlam.pb2.dominio.EstrategiaPrecioFinal;
+import ar.edu.unlam.pb2.dominio.LevantaVidrios;
+import ar.edu.unlam.pb2.dominio.PrecioFinal;
+import ar.edu.unlam.pb2.dominio.PrecioFinalConDescuentoImporte;
+import ar.edu.unlam.pb2.dominio.PrecioFinalConDescuentoPorcentaje;
+import ar.edu.unlam.pb2.dominio.Pulido;
 
 public class DiferentesTiposDePreciosFinalTest {
 

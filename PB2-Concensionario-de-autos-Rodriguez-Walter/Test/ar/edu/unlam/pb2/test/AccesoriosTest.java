@@ -1,16 +1,16 @@
-package ar.edu.unlam.pb2.primerparcial.test;
+package ar.edu.unlam.pb2.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import ar.edu.unlam.pb2.primerparcial.Accesorio;
-import ar.edu.unlam.pb2.primerparcial.Alarma;
-import ar.edu.unlam.pb2.primerparcial.Auto;
-import ar.edu.unlam.pb2.primerparcial.Estereo;
-import ar.edu.unlam.pb2.primerparcial.LevantaVidrios;
-import ar.edu.unlam.pb2.primerparcial.Nitro;
-import ar.edu.unlam.pb2.primerparcial.Pulido;
+import ar.edu.unlam.pb2.dominio.Accesorio;
+import ar.edu.unlam.pb2.dominio.Alarma;
+import ar.edu.unlam.pb2.dominio.Auto;
+import ar.edu.unlam.pb2.dominio.Estereo;
+import ar.edu.unlam.pb2.dominio.LevantaVidrios;
+import ar.edu.unlam.pb2.dominio.Nitro;
+import ar.edu.unlam.pb2.dominio.Pulido;
 
 public class AccesoriosTest {
 

@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.primerparcial;
+package ar.edu.unlam.pb2.dominio;
 
 public class PrecioFinalConDescuentoImporte implements EstrategiaPrecioFinal {
 	//polimorfismo ya que hereda de la interfaz y calcula el precio como lo sabe hacer

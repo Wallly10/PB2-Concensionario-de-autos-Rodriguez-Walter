@@ -1,10 +1,10 @@
-package ar.edu.unlam.pb2.primerparcial.test;
+package ar.edu.unlam.pb2.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import ar.edu.unlam.pb2.primerparcial.Auto;
+import ar.edu.unlam.pb2.dominio.Auto;
 
 public class VehiculoTest {
 
